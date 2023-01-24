@@ -1,4 +1,4 @@
-# # BMI calculator app
+# BMI calculator app
 - simple static bmi-calculator-app  using JavaScript, HTML5 & CSS3. 
 
 ## License
